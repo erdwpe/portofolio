@@ -38,6 +38,25 @@
       ]
     },
     {
+      "title": "Home Page Erdwpe",
+      "startDate": "2023",
+      "description": "Home Page For Erdwpe Whatsapp Bot",
+      "images": [
+        "images/portfolio/Homepage/ErdwpeBotWeb.png"
+      ],
+      "url": "https://erdwpe.is-a.dev/bot",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "Html"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
       "title": "Whatsapp Bot",
       "startDate": "2020",
       "description": "Convert image to sticker Download from instagram, tiktok, youtube and others",
