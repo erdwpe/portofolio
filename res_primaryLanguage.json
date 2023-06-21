@@ -1,0 +1,61 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 Saya Erlangga Dwi Permadi . Terima Kasih Telah Mengunjungi situs/web ini",
+      "section_name": {
+        "about": "Tentang Saya",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Rest Api",
+        "startDate": "2021",
+        "description": "Rest api Yang Dibikin Karena Gabut hehe",
+        "images": [
+          "images/portfolio/RestApi/restapi.png"
+        ],
+        "url": "https://api.erdwpe.com/docs",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "Html"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Whatsapp Bot",
+        "startDate": "2020",
+        "description": "Convert gambar ke stiker Unduh dari instagram, tiktok, youtube, dan lain-lain",
+        "images": [
+          "images/portfolio/Bot/whatsappbot.png"
+        ],
+        "url": "https://wa.me/6285790324129?text=/menu",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }  
+        ]
+        
+      }
+    ]
+  }
